@@ -1,0 +1,6 @@
+img{height: 75%; width: 75%}
+.wrapper{display:grid;
+grid-template-columns: 400px 400px 400px;
+grid-template-rows: 500px 500px 500px 500px;
+grid-column-gap: 50px;
+grid-row-gap: 25px}
